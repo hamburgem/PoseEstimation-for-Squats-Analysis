@@ -18,8 +18,8 @@ A desktop application that uses **MediaPipe Pose** and **OpenCV** to analyse squ
 
 | Scenario | Video |
 |---|---|
-| **Correct rep counting** | [Watch demo](docs/correct.mp4) |
-| **Incorrect rep detection** | [Watch demo](docs/uncorrect.mp4) |
+| **Correct rep counting** | [Watch demo](https://youtu.be/1AifvK2JHu0) |
+| **Incorrect rep detection** | [Watch demo](https://youtu.be/FnGWWFHPrtk) |
 
 ---
 
